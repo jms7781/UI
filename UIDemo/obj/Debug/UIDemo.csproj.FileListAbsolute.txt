@@ -1,0 +1,11 @@
+c:\Users\Jeff\documents\visual studio 2017\Projects\UI\UIDemo\bin\Debug\UIDemo.exe.config
+c:\Users\Jeff\documents\visual studio 2017\Projects\UI\UIDemo\bin\Debug\UIDemo.exe
+c:\Users\Jeff\documents\visual studio 2017\Projects\UI\UIDemo\bin\Debug\UIDemo.pdb
+c:\Users\Jeff\documents\visual studio 2017\Projects\UI\UIDemo\obj\Debug\UIDemo.csprojResolveAssemblyReference.cache
+c:\Users\Jeff\documents\visual studio 2017\Projects\UI\UIDemo\obj\Debug\UIDemo.Form1.resources
+c:\Users\Jeff\documents\visual studio 2017\Projects\UI\UIDemo\obj\Debug\UIDemo.Properties.Resources.resources
+c:\Users\Jeff\documents\visual studio 2017\Projects\UI\UIDemo\obj\Debug\UIDemo.csproj.GenerateResource.Cache
+c:\Users\Jeff\documents\visual studio 2017\Projects\UI\UIDemo\obj\Debug\UIDemo.exe
+c:\Users\Jeff\documents\visual studio 2017\Projects\UI\UIDemo\obj\Debug\UIDemo.pdb
+c:\Users\Jeff\documents\visual studio 2017\Projects\UI\UIDemo\bin\Debug\UI.dll
+c:\Users\Jeff\documents\visual studio 2017\Projects\UI\UIDemo\bin\Debug\UI.pdb

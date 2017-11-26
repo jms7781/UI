@@ -1,0 +1,8 @@
+c:\users\jeff\documents\visual studio 2017\Projects\UI\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+c:\users\jeff\documents\visual studio 2017\Projects\UI\UI\bin\Debug\UI.dll
+c:\users\jeff\documents\visual studio 2017\Projects\UI\UI\bin\Debug\UI.pdb
+c:\users\jeff\documents\visual studio 2017\Projects\UI\UI\obj\Debug\Util.WinForms.ProgressUI.resources
+c:\users\jeff\documents\visual studio 2017\Projects\UI\UI\obj\Debug\UI.SearchListView.resources
+c:\users\jeff\documents\visual studio 2017\Projects\UI\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+c:\users\jeff\documents\visual studio 2017\Projects\UI\UI\obj\Debug\UI.dll
+c:\users\jeff\documents\visual studio 2017\Projects\UI\UI\obj\Debug\UI.pdb
